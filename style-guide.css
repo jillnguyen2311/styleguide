@@ -103,7 +103,7 @@ Typography
 
 -------------------------------- */
 h1, h2 {
-  font-family: "Open Sans", sans-serif;
+  font-family:'Poppins', sans-serif;
   color: #19191a;
 }
 
@@ -167,17 +167,17 @@ Buttons
   box-shadow: none;
   border-radius: .25em;
   font-size: 1.4rem;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Poppins', sans-serif;
   color: #ffffff;
   padding: .6em 2.2em;
   cursor: pointer;
-  background: orange;
+  background: #9BAECB;
 }
 .btn:focus {
   outline: none;
 }
 .btn:hover {
-  background: #CC9844;
+  background: grey;
 }
 .btn.btn-success {
   background: #6fce72;
@@ -186,10 +186,10 @@ Buttons
   background: #39AC7E;
 }
 .btn.btn-warning {
-  background: rgb(255, 101, 45);
+  background: rgb(255, 165, 0);
 }
 .btn.btn-warning:hover {
-  background: rgb(208, 81, 34);
+  background: rgb(204, 152, 68);
 }
 .btn.btn-error {
   background: rgb(231, 3, 3);
@@ -198,13 +198,13 @@ Buttons
   background: #841a1a;
 }
 .btn.btn-outline {
-  color: orange;
+  color: #9BAECB;
   background: transparent;
-  box-shadow: inset 0 0 0 1px orange;
+  box-shadow: inset 0 0 0 1px #9BAECB;
 }
 .btn.btn-outline:hover {
   color: #ffffff;
-  background: orange;
+  background: #9BAECB;
 }
 @media only screen and (min-width: 768px) {
   .btn {
@@ -214,7 +214,7 @@ Buttons
 
 .cd-buttons .cd-box:nth-of-type(2) span {
   /* CSS class name color */
-  color: #00C3FF;
+  color: orange;
 }
 
 /* -------------------------------- 
@@ -378,7 +378,7 @@ html {
 
 body {
   font-size: 1.6rem;
-  font-family: "Merriweather", serif;
+  font-family: 'Lato', sans-serif;
 }
 
 a {
@@ -390,7 +390,7 @@ img {
 }
 
 input, textarea, select {
-  font-family: "Merriweather", serif;
+  font-family: 'Lato', sans-serif;
   font-size: 1.6rem;
 }
 
