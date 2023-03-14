@@ -1,3 +1,8 @@
 # styleguide
+This is the styleguide of the website about fire safety: HEAT HELP
 
-# please write sth in this readme file
+## Team member:
+- Jill
+- Patrick
+- Kai
+- Hudson

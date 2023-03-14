@@ -57,6 +57,10 @@ header {
   background: #19191a;
 }
 
+.cd-main-nav li {
+  font-weight: bolder;
+  font-size: larger;
+}
 .cd-main-nav li a {
   color: #ffffff;
   border-color: #262627;
@@ -565,7 +569,7 @@ header nav {
     display:flex;
     flex-direction: column;
     position: absolute;
-    padding: 25px 400px 0;
+    padding: 45px 400px 0;
     gap: 4rem;
     background: rgba(0, 0, 0, 0.01);
   }
@@ -867,7 +871,7 @@ section:nth-of-type(8) h2::before {
   display: inline-block;
   background-position: center center;
   background-repeat: no-repeat;
-  margin: 1em;
+  margin: 3em;
 }
 
 /* Form section - basic style */
@@ -893,4 +897,17 @@ section:nth-of-type(8) h2::before {
 
 .no-csstransitions .cd-select::after {
   display: none;
+}
+
+/* Imagery section - basic style */
+.images-grid {
+  display: grid;
+  grid-gap: 10px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(2, 1fr);
+  margin: 3rem 5rem;
+}
+
+.image-w-text {
+  position: relative;
 }
