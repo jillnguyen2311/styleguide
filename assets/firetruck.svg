@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 74.17 83.33">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #231f20;
+      }
+    </style>
+  </defs>
+  <rect class="cls-1" x="25.22" y="6.52" width="24.5" height="10.97"/>
+  <rect class="cls-1" x="27.1" y="3.26" width="21.07" height="2.19"/>
+  <rect class="cls-1" x="27.1" width="21.07" height="2.19"/>
+  <rect class="cls-1" x="39.65" y="5.43" width="12.1" height="2.19" transform="translate(52.22 -39.18) rotate(90)"/>
+  <rect class="cls-1" x="24.18" y="5.43" width="12.1" height="2.19" transform="translate(36.75 -23.71) rotate(90)"/>
+  <rect class="cls-1" y="68.13" width="74.17" height="6.8"/>
+  <rect class="cls-1" x="59.58" y="73.34" width="9.98" height="9.98"/>
+  <rect class="cls-1" x="5.38" y="73.34" width="9.98" height="9.98"/>
+  <rect class="cls-1" x="68.25" y="18.43" width="5.92" height="30.5"/>
+  <rect class="cls-1" y="18.43" width="5.92" height="30.5"/>
+  <path class="cls-1" d="m5.38,12.01v53.98h64.19V12.01H5.38Zm13,47.95c-3.04,0-5.51-2.47-5.51-5.51s2.47-5.51,5.51-5.51,5.51,2.47,5.51,5.51-2.47,5.51-5.51,5.51Zm17.61-23.52H11.79v-10.8h24.19v10.8Zm20.55,23.52c-3.05,0-5.51-2.47-5.51-5.51s2.47-5.51,5.51-5.51,5.51,2.47,5.51,5.51-2.47,5.51-5.51,5.51Zm7.27-23.52h-23.7v-10.8h23.7v10.8Z"/>
+</svg>
